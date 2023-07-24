@@ -76,8 +76,8 @@ function App() {
           <p className='text-2xl text-center'>Unsigned Integer</p>
           <p className='display-val'>{unsigned}</p>
         </div>
-        <div className='m-4 grow'>
-        <p className='display-val rounded-full ' style={{backgroundColor: color}} >Color</p>
+        <div className='m-4 grow h-full'>
+          <p className='display-val display-color rounded-full p-8' style={{backgroundColor: color}} >Color</p>
         </div>
         <div className='m-4 grow'>
           <p className='text-2xl text-center'>Signed Integer</p>
