@@ -7,3 +7,19 @@ Nibbles & Bits is an interactive educational model of a 12-bit sequence, display
 Deployed app: http://ec2-3-88-21-130.compute-1.amazonaws.com/
 
 My LinkedIn profile: https://www.linkedin.com/in/michaeljackjohnson/
+
+# Roadmap
+
+Planned features:
+
+## 1 - ByteGates
+
+This will be a separate page that simulates logic gates and bitwise operations, featuring inputs and outputs in a visual/interactive style similar to the Nibbles & Bits model.
+
+## 2 - Content Expansion
+
+Nibbles & Bits will be expanded to display additional data types, including (but not necessarily limited to) floating point values. ByteGates will be expanded to include the same data types, and possibly additional logic gates or operations.
+
+## 3 - GateMaster
+
+This will be a more ambitious and long-term project phase, which will evolve the project from a simple educational model into a tool for high-level logic circuit design. The interface will be in a node-based signal-processing format, similar to that seen in various audio or image processing tools, with customizable nodes representing inputs, outputs, and middleware functions, each possessing their own input and/or output controls.
