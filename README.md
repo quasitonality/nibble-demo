@@ -4,8 +4,6 @@ Nibbles & Bits is an interactive educational model of a 12-bit sequence, display
 
 # Links
 
-Deployed app: http://ec2-3-88-21-130.compute-1.amazonaws.com/
-
 My LinkedIn profile: https://www.linkedin.com/in/michaeljackjohnson/
 
 # Roadmap
